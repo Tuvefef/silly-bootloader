@@ -35,4 +35,4 @@ qemu-system-i386 -fda core.bin
 ```
 
 ## result: ##
-[two keys](https://github.com/Tuvefef/silly-bootloader/blob/main/imgs/mii1.png)
+[two keys](https://raw.githubusercontent.com/Tuvefef/silly-bootloader/refs/heads/main/imgs/mii1.png)
